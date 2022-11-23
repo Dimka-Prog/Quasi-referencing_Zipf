@@ -1,0 +1,8 @@
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\bin\Debug\FrequencyQuasiReferencing.exe.config
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\bin\Debug\FrequencyQuasiReferencing.exe
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\bin\Debug\FrequencyQuasiReferencing.pdb
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\obj\Debug\FrequencyQuasiReferencing.csproj.AssemblyReference.cache
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\obj\Debug\FrequencyQuasiReferencing.csproj.SuggestedBindingRedirects.cache
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\obj\Debug\FrequencyQuasiReferencing.csproj.CoreCompileInputs.cache
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\obj\Debug\FrequencyQuasiReferencing.exe
+C:\ProjectVS\FrequencyQuasiReferencing\FrequencyQuasiReferencing\obj\Debug\FrequencyQuasiReferencing.pdb
